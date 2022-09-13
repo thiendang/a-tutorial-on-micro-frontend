@@ -1,0 +1,2 @@
+# a-tutorial-on-micro-frontend
+In this project, we explored the micro frontends. It is a process of splitting a project into different modules where different teams can work independently on separate modules. The use case of micro frontend architecture depends on your application. If you have a small project and a small team then micro frontend architecture may not be a feasible method. But if it is a large project with a large team working on it then it would be beneficial to implement micro frontend architecture.
